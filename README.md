@@ -50,11 +50,11 @@ Build a model the price of houses with the available independent variables that 
 Give credit here.
 - This project was inspired by...
 - References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was based on [upgrad tutorial](https://www.upgrad.com).
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@sumit2sk] - feel free to contact me!
 
 
 <!-- Optional -->
